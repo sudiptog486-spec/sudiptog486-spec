@@ -64,3 +64,22 @@ To become a skilled IT professional and build useful, practical technology solut
 ---
 
 ⭐ Thanks for visiting my profile!
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudiptog486-spec&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudiptog486-spec&theme=radical" height="180"/>
+</p>
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudiptog486-spec&layout=compact&theme=radical" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudiptog486-spec&theme=radical&no-frame=true&margin-w=10" />
+</p>
